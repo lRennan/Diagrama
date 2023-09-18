@@ -1,3 +1,3 @@
-# Diagrama Sobre Hospital
-Primeira PARTE/Secunda PARTE  e Script  do diagrama 
-// feito em mermaid e // dbdiagram.io
+# Diagram About Hospital
+First PART/Second PART/Third PART and Diagram Script
+// made in mermaid and // dbdiagram.io
